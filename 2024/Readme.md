@@ -1,7 +1,3 @@
-# ENS 10064_2024
+# ENS 10041
 
-Repositório 
-Pastas:
-
-- Notebooks = pasta com o jupter notebook
-- dados pasta contento dos dados porém ignoradas no .gitignore
+testes
